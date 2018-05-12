@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/264
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13461#Mistress-and-Maid--A-Household-Story
 gutenberg_issued: '2004-09-15'
 gutenberg_type: Text
 identifiers:
